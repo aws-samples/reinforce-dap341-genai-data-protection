@@ -1,0 +1,25 @@
+## EcoRoboPotato Division
+
+EcoRoboPotato is a skunkworks division within 3rd Planet Robotics dedicated to developing sustainable and eco-friendly robotic solutions. Our flagship project is a self-driving root vegetable harvester that runs on the energy provided by the root vegetables that it harvests.
+
+### Project Overview
+
+The "RootRunner 3000" is a revolutionary self-driving root vegetable harvester that utilizes a bio-battery system powered by root vegetables like potatoes and carrots. This innovative technology was developed by the EcoRoboPotato team as an environmentally conscious alternative to traditional gasoline-powered harvesters.
+
+The RootRunner 3000 is designed to be fully autonomous, relying on advanced sensors and algorithms to navigate without human intervention. It is equipped with a self-charging system that converts the energy stored in potatoes and other root vegetables into electrical power, eliminating the need for fossil fuels or external charging.
+
+### Testing Grounds
+
+Extensive testing and development of the Root Runner 3000 have been conducted at the EcoRoboPotato Testing Facility, located at 123 Fantasy Drive in Elk City, Idaho, 83525. This remote location provides a unique environment for evaluating the performance of the Root Runner 3000 under various weather conditions and terrain challenges.
+
+### Key Personnel
+
+The EcoRoboPotato team is led by the following key personnel:
+
+1. **Dr. Samantha Green (Project Lead)**: Dr. Green is responsible for overseeing the entire project, including coordinating the efforts of the engineering, design, and testing teams.
+
+2. **Ethan Wilson (Lead Engineer)**: As the lead engineer, Ethan Wilson spearheaded the development of the bio-battery system and the autonomous navigation algorithms.
+
+3. **Sofia Rodriguez (Head of Design)**: Sofia Rodriguez led the team responsible for the ergonomic and aesthetic design of the RootRunner 3000, ensuring it is both functional and visually appealing.
+
+4. **Alex Chen (Testing and Quality Assurance)**: Alex Chen and his team conducted extensive testing and quality assurance procedures to ensure the reliability and safety of the RootRunner 3000 before its release.

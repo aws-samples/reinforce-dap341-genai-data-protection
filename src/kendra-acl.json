@@ -1,0 +1,27 @@
+[
+    {
+        "keyPrefix": "s3://ecorobopotato/wiki/",
+        "aclEntries": [
+            {
+                "Name": "Engineering",
+                "Type": "GROUP",
+                "Access": "ALLOW"
+            },
+            {
+                "Name": "Marketing",
+                "Type": "GROUP",
+                "Access": "ALLOW"
+            }
+        ]
+    },
+    {
+        "keyPrefix": "s3://ecorobopotato/engineering/",
+        "aclEntries": [
+            {
+                "Name": "Engineering",
+                "Type": "GROUP",
+                "Access": "ALLOW"
+            }
+        ]
+    }
+]

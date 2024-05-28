@@ -1,0 +1,7 @@
+# Root Runner 3000 Technical Specifications
+
+- **Speed**: The harvester can reach a top speed of 5 mph, allowing for efficient harvesting of large areas.
+- **Power Consumption**: The RootRunner 3000 consumes approximately 0.5 kWh of energy per hour of operation.
+- **Cutting Width**: The harvester features a 22-inch cutting claw, suitable for most farm settings.
+- **Sensor Suite**: The harvester is equipped with advanced sensors, including GPS, lidar, and computer vision systems, to navigate and avoid obstacles autonomously.
+- **Connectivity**: The RootRunner 3000 can be controlled and monitored remotely through a dedicated mobile app or web interface.
